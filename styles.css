@@ -17,7 +17,8 @@
     --branco2: #F9F9F9;
     --fonte-secundaria: "Josefin Sans", sans-serif;
     --preto: #000000;
-}
+    --cinza: #474646;
+    --cinza-secundario: #858585;
 
 body{
     background-color: var(--cor-de-fundo);
@@ -26,3 +27,4 @@ body{
     font-weight: 400;
 }
 
+}
